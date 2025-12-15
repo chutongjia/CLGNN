@@ -30,4 +30,4 @@ Here we provide a example to predict the chemical-disease association scores:
 2. Run main.py
 
 ## 4. Contacts
-If you have any questions, please email Nan Sheng (shengnan@jlu.edu.cn)
+If you have any questions, please email Feng Wei (wei_feng@jlu.edu.cn), Nan Sheng (shengnan@jlu.edu.cn), or Tongjia Chu (zhutj22@mails.jlu.edu.cn)
